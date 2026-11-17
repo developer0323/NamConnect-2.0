@@ -1,0 +1,136 @@
+import { Booking, PropertyReview } from '../types/rental';
+
+export const SEED_REVIEWS: PropertyReview[] = [
+  {
+    id: 'rev_seed_1',
+    propertyId: 'wb-lagoon-01',
+    bookingId: 'bkg_hist_101',
+    confirmationCode: 'WBR-2026-8412',
+    guestName: 'Lukas Hamutenya',
+    rating: 5,
+    title: 'Unbeatable morning views across the lagoon',
+    comment:
+      'Waking up to flamingos right outside the sliding doors was unforgettable. The fiber connection held steady for video calls all week and the basement parking felt very safe.',
+    stayDates: 'Oct 14 – Oct 18, 2026',
+    createdAt: '2026-10-19T10:15:00Z',
+  },
+  {
+    id: 'rev_seed_2',
+    propertyId: 'wb-lagoon-01',
+    bookingId: 'bkg_hist_102',
+    confirmationCode: 'WBR-2026-8891',
+    guestName: 'Marike de Vries',
+    rating: 5,
+    title: 'Spotless coastal apartment, sheltered from afternoon wind',
+    comment:
+      'Helena welcomed us with fresh coffee beans and local dining tips. Walking distance to The Raft and the boardwalk. Would happily book again on our next Walvis Bay trip.',
+    stayDates: 'Oct 27 – Oct 30, 2026',
+    createdAt: '2026-10-31T14:40:00Z',
+  },
+  {
+    id: 'rev_seed_3',
+    propertyId: 'wb-meersig-02',
+    bookingId: 'bkg_hist_103',
+    confirmationCode: 'WBR-2026-9034',
+    guestName: 'David Nghipondoka',
+    rating: 5,
+    title: 'Quiet workspace and great pet-friendly courtyard',
+    comment:
+      'Stayed for five nights while consulting at the port. Loved having an enclosed garden for our terrier and the solar backup kept the router online during grid maintenance.',
+    stayDates: 'Nov 02 – Nov 07, 2026',
+    createdAt: '2026-11-08T09:05:00Z',
+  },
+  {
+    id: 'rev_seed_4',
+    propertyId: 'wb-langstrand-03',
+    bookingId: 'bkg_hist_104',
+    confirmationCode: 'WBR-2026-9120',
+    guestName: 'Stefanus & Claire Botha',
+    rating: 5,
+    title: 'Ideal family dune villa with sheltered indoor braai',
+    comment:
+      'Four spacious bedrooms, clean finishes, and literally steps from Long Beach. Having the indoor braai room made coastal evenings effortless even when the fog rolled in.',
+    stayDates: 'Oct 20 – Oct 25, 2026',
+    createdAt: '2026-10-26T16:20:00Z',
+  },
+  {
+    id: 'rev_seed_5',
+    propertyId: 'wb-central-04',
+    bookingId: 'bkg_hist_105',
+    confirmationCode: 'WBR-2026-9211',
+    guestName: 'Kambazembi Tjiuma',
+    rating: 4,
+    title: 'Walkable to the harbor and very secure',
+    comment:
+      'Super convenient for morning port meetings. Gate security was attentive and the loft kitchen had everything needed for a week-long stay.',
+    stayDates: 'Nov 04 – Nov 09, 2026',
+    createdAt: '2026-11-10T11:30:00Z',
+  },
+  {
+    id: 'rev_seed_6',
+    propertyId: 'swk-vineta-09',
+    bookingId: 'bkg_hist_106',
+    confirmationCode: 'WBR-2026-9305',
+    guestName: 'Nadia Jacobs',
+    rating: 5,
+    title: 'Calm coastal design right near Platz am Meer',
+    comment:
+      'Beautiful concrete and oak living room, super friendly hosts, and a secure lawn for our dog. Easy 20-minute drive down the B2 into Walvis Bay.',
+    stayDates: 'Nov 06 – Nov 10, 2026',
+    createdAt: '2026-11-11T15:10:00Z',
+  },
+  {
+    id: 'rev_seed_7',
+    propertyId: 'whk-klein-10',
+    bookingId: 'bkg_hist_107',
+    confirmationCode: 'WBR-2026-9388',
+    guestName: 'Elena Mutorwa',
+    rating: 5,
+    title: 'Stunning Klein Windhoek terrace sunsets',
+    comment:
+      'Quiet hillside estate with top-notch security and fast Wi-Fi. Great stopover before heading to the coast.',
+    stayDates: 'Nov 09 – Nov 12, 2026',
+    createdAt: '2026-11-13T08:45:00Z',
+  },
+];
+
+// Pre-seeded completed booking so users can immediately test leaving a review or book any new stay
+export const SEED_BOOKINGS: Booking[] = [
+  {
+    id: 'bkg_sample_past_stay',
+    confirmationCode: 'WBR-2026-7410',
+    propertyId: 'wb-meersig-02',
+    propertyTitle: 'Meersig Coastal Studio Flat & Courtyard',
+    propertyImage: '/src/assets/images/room_meersig_flat_1794939593577.jpg',
+    propertyLocation: 'Meersig, Walvis Bay',
+    checkIn: '2026-11-10',
+    checkOut: '2026-11-13',
+    nights: 3,
+    guests: 2,
+    guestName: 'Salmo Mengela',
+    guestEmail: 'salmomengela319@gmail.com',
+    guestPhone: '+264 81 555 0192',
+    pricePerNight: 920,
+    subtotal: 2760,
+    cleaningFee: 200,
+    serviceFee: 221,
+    totalAmount: 3181,
+    paymentMethod: 'card',
+    paymentSummary: 'Visa •••• 4242',
+    transactionId: 'TXN-SAMPLE-7410',
+    status: 'confirmed',
+    createdAt: '2026-11-08T12:00:00Z',
+    emailNotification: {
+      id: 'eml_sample_7410',
+      to: 'salmomengela319@gmail.com',
+      from: 'bookings@walvisbayrental.na',
+      subject: 'Booking Confirmed (WBR-2026-7410) — Meersig Coastal Studio Flat & Courtyard',
+      sentAt: '2026-11-08T12:00:02Z',
+      confirmationCode: 'WBR-2026-7410',
+      bodyText:
+        'Dear Salmo Mengela,\n\nYour reservation at Meersig Coastal Studio Flat & Courtyard is confirmed.\n\nConfirmation Code: WBR-2026-7410\nCheck-in: 2026-11-10 (from 14:00)\nCheck-out: 2026-11-13 (by 10:00)\nTotal Paid: N$3,181 (Visa •••• 4242)\n\nThank you for booking with Walvis Bay Rental.',
+      checkInInstructions:
+        'Self check-in from 14:00 at 8 Pelican Street, Meersig, Walvis Bay.',
+    },
+  },
+];

@@ -1,0 +1,2061 @@
+{
+  "properties": [
+    {
+      "id": "wb-lagoon-01",
+      "title": "Lagoon Promenade Two-Bedroom Residence",
+      "neighborhood": "Lagoon",
+      "city": "Walvis Bay",
+      "region": "Erongo",
+      "country": "Namibia",
+      "currency": "NAD",
+      "address": "14 Esplanade Drive, Lagoon, Walvis Bay",
+      "lat": -22.9672,
+      "lng": 14.4912,
+      "propertyType": "Apartment",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "maxGuests": 4,
+      "areaSqm": 112,
+      "pricePerNight": 1650,
+      "monthlyRate": 22500,
+      "cleaningFee": 350,
+      "amenities": [
+        "Wi-Fi",
+        "Parking",
+        "Ocean view",
+        "Furnished",
+        "Security",
+        "Kitchen",
+        "Workspace"
+      ],
+      "image": "/src/assets/images/room_walvis_lagoon_1794939592979.jpg",
+      "description": "Sunlit waterfront apartment directly facing the Walvis Bay Lagoon flamingo sanctuary. Features floor-to-ceiling sliding glass onto a sheltered balcony, fiber Wi-Fi for remote work, and secure basement bay parking.",
+      "highlights": [
+        "Uninterrupted views of the Walvis Bay Lagoon and Atlantic dunes",
+        "100 Mbps symmetric fiber internet with dedicated oak desk",
+        "Two secure underground parking bays behind remote gate"
+      ],
+      "houseRules": [
+        "Check-in from 14:00, check-out by 10:00",
+        "Quiet hours after 22:00",
+        "No indoor smoking"
+      ],
+      "host": {
+        "name": "Helena Shikongo",
+        "role": "Coastal Property Host",
+        "responseTime": "Within 1 hour",
+        "verified": true
+      },
+      "sourceName": "Property24 Namibia",
+      "sourceUrl": "https://www.property24.co.na",
+      "bookedRanges": [
+        {
+          "bookingId": "seed-1",
+          "checkIn": "2026-11-20",
+          "checkOut": "2026-11-23"
+        },
+        {
+          "bookingId": "seed-2",
+          "checkIn": "2026-12-01",
+          "checkOut": "2026-12-05"
+        }
+      ],
+      "createdAt": "2026-11-01T09:00:00Z"
+    },
+    {
+      "id": "wb-meersig-02",
+      "title": "Meersig Coastal Studio Flat & Courtyard",
+      "neighborhood": "Meersig",
+      "city": "Walvis Bay",
+      "region": "Erongo",
+      "country": "Namibia",
+      "currency": "NAD",
+      "address": "8 Pelican Street, Meersig, Walvis Bay",
+      "lat": -22.9762,
+      "lng": 14.5008,
+      "propertyType": "Studio Flat",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "maxGuests": 2,
+      "areaSqm": 54,
+      "pricePerNight": 920,
+      "monthlyRate": 11800,
+      "cleaningFee": 200,
+      "amenities": [
+        "Wi-Fi",
+        "Parking",
+        "Pets allowed",
+        "Furnished",
+        "Security",
+        "Workspace",
+        "Kitchen",
+        "Prepaid electricity"
+      ],
+      "image": "/src/assets/images/room_meersig_flat_1794939593577.jpg",
+      "description": "Private ground-floor studio flat in leafy Meersig, a five-minute walk from the lagoon boardwalk. Designed for visiting marine engineers, students, and solo travelers—pet-friendly courtyard with secure perimeter wall.",
+      "highlights": [
+        "Small pets welcome with enclosed private courtyard",
+        "Dedicated timber study desk and ergonomic chair",
+        "Solar-backed inverter for uninterrupted Wi-Fi during outages"
+      ],
+      "houseRules": [
+        "Pets must be house-trained",
+        "Self check-in via smart lockbox",
+        "Maximum 2 guests"
+      ],
+      "host": {
+        "name": "Pieter van der Merwe",
+        "role": "Verified Landlord",
+        "responseTime": "Within 30 mins",
+        "verified": true
+      },
+      "sourceName": "Just Property Namibia",
+      "sourceUrl": "https://www.property24.co.na",
+      "bookedRanges": [
+        {
+          "bookingId": "seed-3",
+          "checkIn": "2026-11-25",
+          "checkOut": "2026-11-28"
+        }
+      ],
+      "createdAt": "2026-11-03T11:30:00Z"
+    },
+    {
+      "id": "wb-langstrand-03",
+      "title": "Langstrand Oceanfront Dune Villa",
+      "neighborhood": "Langstrand",
+      "city": "Walvis Bay",
+      "region": "Erongo",
+      "country": "Namibia",
+      "currency": "NAD",
+      "address": "42 Atlantic Boulevard, Langstrand, Walvis Bay",
+      "lat": -22.8189,
+      "lng": 14.5435,
+      "propertyType": "Villa",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "maxGuests": 8,
+      "areaSqm": 260,
+      "pricePerNight": 3400,
+      "monthlyRate": 46000,
+      "cleaningFee": 600,
+      "amenities": [
+        "Wi-Fi",
+        "Parking",
+        "Pets allowed",
+        "Ocean view",
+        "Furnished",
+        "Security",
+        "Braai area",
+        "Kitchen"
+      ],
+      "image": "/src/assets/images/room_swakop_ocean_1794939593427.jpg",
+      "description": "Architectural four-bedroom coastal villa positioned between the Namib dunes and Long Beach shoreline. Built for families and project teams with an indoor-outdoor braai courtyard, double garage, and direct beach access.",
+      "highlights": [
+        "Direct private pathway onto Long Beach sands",
+        "Sheltered indoor braai room & panoramic dune deck",
+        "Double automated garage plus paved driveway for 2 additional vehicles"
+      ],
+      "houseRules": [
+        "No parties or unregistered events",
+        "Pets welcome (max 2 dogs)",
+        "Check-out by 10:00"
+      ],
+      "host": {
+        "name": "Annalise Becker",
+        "role": "Coastal Villa Manager",
+        "responseTime": "Within 1 hour",
+        "verified": true
+      },
+      "sourceName": "Kalahari Deals — Flats & houses to rent",
+      "sourceUrl": "https://kalaharideals.com/namibia/flats-houses-to-rent/",
+      "bookedRanges": [
+        {
+          "bookingId": "seed-4",
+          "checkIn": "2026-11-22",
+          "checkOut": "2026-11-26"
+        }
+      ],
+      "createdAt": "2026-11-04T14:15:00Z"
+    },
+    {
+      "id": "wb-central-04",
+      "title": "Harbor Quarter Modern One-Bedroom Loft",
+      "neighborhood": "Central",
+      "city": "Walvis Bay",
+      "region": "Erongo",
+      "country": "Namibia",
+      "currency": "NAD",
+      "address": "109 Sam Nujoma Avenue, Walvis Bay Central",
+      "lat": -22.9541,
+      "lng": 14.5059,
+      "propertyType": "Apartment",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "maxGuests": 2,
+      "areaSqm": 68,
+      "pricePerNight": 1050,
+      "monthlyRate": 13500,
+      "cleaningFee": 220,
+      "amenities": [
+        "Wi-Fi",
+        "Parking",
+        "Furnished",
+        "Security",
+        "Workspace",
+        "Kitchen"
+      ],
+      "image": "/src/assets/images/room_meersig_flat_1794939593577.jpg",
+      "description": "Walkable central loft steps from Walvis Bay Port Gate, Woermann Brock, and waterfront offices. Ideal for port contractors, seasonal interns, and corporate travelers seeking reliable fiber and 24/7 security.",
+      "highlights": [
+        "400m from Walvis Bay Port Gate and Dunes Mall route",
+        "24-hour manned access control and CCTV parking",
+        "Full kitchen with espresso machine and washer-dryer"
+      ],
+      "houseRules": [
+        "Corporate invoices issued automatically",
+        "No smoking indoors"
+      ],
+      "host": {
+        "name": "Tangeni Amupadhi",
+        "role": "Harbor Suites",
+        "responseTime": "Within 20 mins",
+        "verified": true
+      },
+      "sourceName": "MyProperty Namibia",
+      "sourceUrl": "https://www.myproperty.com.na/",
+      "bookedRanges": [],
+      "createdAt": "2026-11-05T08:40:00Z"
+    },
+    {
+      "id": "wb-meersig-05",
+      "title": "Flamingo Point 3-Bedroom Family Townhouse",
+      "neighborhood": "Meersig",
+      "city": "Walvis Bay",
+      "region": "Erongo",
+      "country": "Namibia",
+      "currency": "NAD",
+      "address": "27 Kovambo Nujoma Drive, Meersig, Walvis Bay",
+      "lat": -22.9742,
+      "lng": 14.4961,
+      "propertyType": "House",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "maxGuests": 6,
+      "areaSqm": 178,
+      "pricePerNight": 2150,
+      "monthlyRate": 28000,
+      "cleaningFee": 450,
+      "amenities": [
+        "Wi-Fi",
+        "Parking",
+        "Pets allowed",
+        "Furnished",
+        "Security",
+        "Braai area",
+        "Kitchen",
+        "Prepaid electricity"
+      ],
+      "image": "/src/assets/images/room_walvis_lagoon_1794939592979.jpg",
+      "description": "Spacious three-bedroom townhouse two blocks from the lagoon walkway. Features a walled pet-friendly garden, covered outdoor braai patio, alarm system with armed response, and spacious open-plan dining.",
+      "highlights": [
+        "Fully walled courtyard garden ideal for families and pets",
+        "Covered braai terrace protected from coastal afternoon breeze",
+        "Two lock-up garages with remote access"
+      ],
+      "houseRules": [
+        "Pets allowed with prior notice",
+        "Respect neighbors after 22:00"
+      ],
+      "host": {
+        "name": "Helena Shikongo",
+        "role": "Coastal Property Host",
+        "responseTime": "Within 1 hour",
+        "verified": true
+      },
+      "sourceName": "Property24 Namibia",
+      "sourceUrl": "https://www.property24.co.na",
+      "bookedRanges": [
+        {
+          "bookingId": "seed-5",
+          "checkIn": "2026-11-18",
+          "checkOut": "2026-11-21"
+        }
+      ],
+      "createdAt": "2026-11-06T10:00:00Z"
+    },
+    {
+      "id": "wb-narraville-06",
+      "title": "Narraville Quiet Courtyard Backyard Flat",
+      "neighborhood": "Narraville",
+      "city": "Walvis Bay",
+      "region": "Erongo",
+      "country": "Namibia",
+      "currency": "NAD",
+      "address": "19 Kruis Street, Narraville, Walvis Bay",
+      "lat": -22.9642,
+      "lng": 14.5245,
+      "propertyType": "Backyard Flat",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "maxGuests": 2,
+      "areaSqm": 44,
+      "pricePerNight": 650,
+      "monthlyRate": 7800,
+      "cleaningFee": 150,
+      "amenities": [
+        "Wi-Fi",
+        "Parking",
+        "Security",
+        "Kitchen",
+        "Prepaid electricity"
+      ],
+      "image": "/src/assets/images/room_meersig_flat_1794939593577.jpg",
+      "description": "Clean, private self-catering backyard flat in a quiet residential street in Narraville. Includes dedicated carport behind locked gates, unlimited Wi-Fi, and quick access to Walvis Bay industrial and retail corridors.",
+      "highlights": [
+        "Private entrance and covered off-street parking bay",
+        "Affordable nightly and monthly rates for project & holiday stays",
+        "Fast 10-minute drive to Walvis Bay Central and Dunes Mall"
+      ],
+      "houseRules": [
+        "No loud music",
+        "Prepaid electricity topped up for first 7 nights"
+      ],
+      "host": {
+        "name": "Devon Beukes",
+        "role": "Private Landlord",
+        "responseTime": "Within 2 hours",
+        "verified": true
+      },
+      "sourceName": "MyProperty Namibia",
+      "sourceUrl": "https://www.myproperty.com.na/",
+      "bookedRanges": [],
+      "createdAt": "2026-11-07T13:20:00Z"
+    },
+    {
+      "id": "swk-vineta-09",
+      "title": "Swakopmund Vineta Shared Architectural House",
+      "neighborhood": "Vineta",
+      "city": "Swakopmund",
+      "region": "Erongo",
+      "country": "Namibia",
+      "currency": "NAD",
+      "address": "16 Strand Street North, Vineta, Swakopmund",
+      "lat": -22.6625,
+      "lng": 14.5271,
+      "propertyType": "Shared House",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "maxGuests": 4,
+      "areaSqm": 140,
+      "pricePerNight": 1280,
+      "monthlyRate": 16200,
+      "cleaningFee": 250,
+      "amenities": [
+        "Wi-Fi",
+        "Parking",
+        "Pets allowed",
+        "Ocean view",
+        "Furnished",
+        "Braai area",
+        "Kitchen"
+      ],
+      "image": "/src/assets/images/room_swakop_ocean_1794939593427.jpg",
+      "description": "Private two-bedroom wing in a calm concrete-and-timber coastal residence in Vineta, two minutes from the Platz am Meer promenade. Pet-friendly enclosed garden and shared ocean-view dining terrace.",
+      "highlights": [
+        "Steps from Platz am Meer shopping and ocean boardwalk",
+        "Pet-friendly gated lawn with shade trees",
+        "High-speed fiber and artisan kitchen appliances"
+      ],
+      "houseRules": [
+        "Pets welcome",
+        "Shared laundry available on request"
+      ],
+      "host": {
+        "name": "Katrin Lindemann",
+        "role": "Erongo Coastal Stays",
+        "responseTime": "Within 1 hour",
+        "verified": true
+      },
+      "sourceName": "Expat.com — Rooms in Namibia",
+      "sourceUrl": "https://www.expat.com/en/housing/africa/namibia/",
+      "bookedRanges": [],
+      "createdAt": "2026-11-10T09:15:00Z"
+    },
+    {
+      "id": "whk-klein-10",
+      "title": "Klein Windhoek Hillside Terrace Suite",
+      "neighborhood": "Klein Windhoek",
+      "city": "Windhoek",
+      "region": "Khomas",
+      "country": "Namibia",
+      "currency": "NAD",
+      "address": "24 Nelson Mandela Avenue, Klein Windhoek",
+      "lat": -22.5678,
+      "lng": 17.0992,
+      "propertyType": "Apartment",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "maxGuests": 4,
+      "areaSqm": 118,
+      "pricePerNight": 1750,
+      "monthlyRate": 24000,
+      "cleaningFee": 320,
+      "amenities": [
+        "Wi-Fi",
+        "Parking",
+        "Furnished",
+        "Security",
+        "Workspace",
+        "Kitchen"
+      ],
+      "image": "/src/assets/images/room_windhoek_klein_1794939593406.jpg",
+      "description": "Elevated hillside suite overlooking the Auas Mountains in Klein Windhoek. Ideal base in the capital, featuring a teak sunset terrace, 24/7 estate security, and dual shaded parking.",
+      "highlights": [
+        "Unobstructed sunset deck overlooking Klein Windhoek valley",
+        "Backup solar power & fast fiber internet",
+        "5 minutes from embassies, cafes, and Maerua Mall"
+      ],
+      "houseRules": [
+        "No smoking indoors",
+        "ID required at estate security gate"
+      ],
+      "host": {
+        "name": "Ndapewa Katjavivi",
+        "role": "Khomas Executive Lets",
+        "responseTime": "Within 30 mins",
+        "verified": true
+      },
+      "sourceName": "Real Estate Namibia — Rentals",
+      "sourceUrl": "https://www.realestate.co.na/",
+      "bookedRanges": [
+        {
+          "bookingId": "seed-7",
+          "checkIn": "2026-11-21",
+          "checkOut": "2026-11-24"
+        }
+      ],
+      "createdAt": "2026-11-11T15:30:00Z"
+    },
+    {
+      "id": "lud-harbor-12",
+      "title": "Lüderitz Waterfront Heritage House",
+      "neighborhood": "Waterfront",
+      "city": "Lüderitz",
+      "region": "//Kharas",
+      "country": "Namibia",
+      "currency": "NAD",
+      "address": "7 Bismarck Street, Lüderitz",
+      "lat": -26.6472,
+      "lng": 15.1581,
+      "propertyType": "House",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "maxGuests": 6,
+      "areaSqm": 155,
+      "pricePerNight": 1890,
+      "monthlyRate": 25000,
+      "cleaningFee": 350,
+      "amenities": [
+        "Wi-Fi",
+        "Parking",
+        "Pets allowed",
+        "Ocean view",
+        "Furnished",
+        "Braai area",
+        "Kitchen"
+      ],
+      "image": "/src/assets/images/room_windhoek_klein_1794939593406.jpg",
+      "description": "Restored coastal stone-and-timber home overlooking Lüderitz Bay near Haus Hartmann. Wind-sheltered courtyard braai, fast Wi-Fi, pet-friendly yard, and secure parking for 4x4 expedition vehicles.",
+      "highlights": [
+        "Bay views towards Shark Island and Atlantic harbor",
+        "High-clearance secure parking for 4x4 roof-tent vehicles",
+        "Wood-burning fireplace for crisp Atlantic evenings"
+      ],
+      "houseRules": [
+        "Pets welcome",
+        "Please conserve fresh water"
+      ],
+      "host": {
+        "name": "Johan Cloete",
+        "role": "Southern Coast Host",
+        "responseTime": "Within 2 hours",
+        "verified": true
+      },
+      "sourceName": "Haus Hartmann & Booking.com",
+      "sourceUrl": "https://www.haushartmann.com",
+      "bookedRanges": [],
+      "createdAt": "2026-11-13T11:00:00Z"
+    },
+    {
+      "id": "osh-north-13",
+      "title": "Oshakati Central Executive Flat & Solar Backup",
+      "neighborhood": "Oshakati East",
+      "city": "Oshakati",
+      "region": "Oshana",
+      "country": "Namibia",
+      "currency": "NAD",
+      "address": "12 Sam Nujoma Road, Oshakati",
+      "lat": -17.7885,
+      "lng": 15.7062,
+      "propertyType": "Apartment",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "maxGuests": 4,
+      "areaSqm": 84,
+      "pricePerNight": 1120,
+      "monthlyRate": 14500,
+      "cleaningFee": 220,
+      "amenities": [
+        "Wi-Fi",
+        "Parking",
+        "Furnished",
+        "Security",
+        "Workspace",
+        "Kitchen"
+      ],
+      "image": "/src/assets/images/room_meersig_flat_1794939593577.jpg",
+      "description": "Air-conditioned two-bedroom flat in Oshakati tailored for northern regional consultants, solar engineers, and visiting staff near Etango Mall and Oshakati State Hospital.",
+      "highlights": [
+        "Full air-conditioning in living room and both bedrooms",
+        "Dedicated fiber Wi-Fi with inverter backup",
+        "5 minutes from Oshakati CBD, Checkers & Ongwediva road"
+      ],
+      "houseRules": [
+        "Check-in 14:00",
+        "No smoking indoors"
+      ],
+      "host": {
+        "name": "Selma Nangolo",
+        "role": "Northern Stays",
+        "responseTime": "Within 45 mins",
+        "verified": true
+      },
+      "sourceName": "Property24 Namibia",
+      "sourceUrl": "https://www.property24.co.na",
+      "bookedRanges": [],
+      "createdAt": "2026-11-12T14:00:00Z"
+    },
+    {
+      "id": "whk-pioneers-18",
+      "title": "Pioneerspark Student & Intern Garden Room",
+      "neighborhood": "Pioneerspark",
+      "city": "Windhoek",
+      "region": "Khomas",
+      "country": "Namibia",
+      "currency": "NAD",
+      "address": "41 Scheppmann Street, Pioneerspark, Windhoek",
+      "lat": -22.5924,
+      "lng": 17.0642,
+      "propertyType": "Private Room",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "maxGuests": 1,
+      "areaSqm": 28,
+      "pricePerNight": 480,
+      "monthlyRate": 4900,
+      "cleaningFee": 100,
+      "amenities": [
+        "Wi-Fi",
+        "Parking",
+        "Furnished",
+        "Security",
+        "Workspace",
+        "Prepaid electricity"
+      ],
+      "image": "/src/assets/images/room_meersig_flat_1794939593577.jpg",
+      "description": "Safe, budget-friendly private garden room near UNAM Main Campus, Baines Shopping Centre, and Windhoek bus routes. Tailored for university students on holiday work placements and young retail/office interns.",
+      "highlights": [
+        "Walking distance to UNAM & Pioneerspark Spar/Baines stores",
+        "Unlimited Wi-Fi and study desk included in monthly/holiday rate",
+        "Remote-controlled perimeter gate with covered bay"
+      ],
+      "houseRules": [
+        "Single occupancy or prior approval",
+        "Quiet study environment after 22:00"
+      ],
+      "host": {
+        "name": "Frieda Hangula",
+        "role": "Windhoek Student Rooms",
+        "responseTime": "Within 45 mins",
+        "verified": true
+      },
+      "sourceName": "Kalahari Deals — Rooms for rent",
+      "sourceUrl": "https://kalaharideals.com/namibia/rooms-for-rent/",
+      "bookedRanges": [],
+      "createdAt": "2026-11-14T08:30:00Z"
+    },
+    {
+      "id": "ong-central-19",
+      "title": "Ongwediva Central Modern Room & Study Flat",
+      "neighborhood": "Ongwediva Central",
+      "city": "Ongwediva",
+      "region": "Oshana",
+      "country": "Namibia",
+      "currency": "NAD",
+      "address": "7 Libertine Amathila Street, Ongwediva",
+      "lat": -17.7812,
+      "lng": 15.7654,
+      "propertyType": "Backyard Flat",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "maxGuests": 2,
+      "areaSqm": 42,
+      "pricePerNight": 560,
+      "monthlyRate": 5800,
+      "cleaningFee": 120,
+      "amenities": [
+        "Wi-Fi",
+        "Parking",
+        "Furnished",
+        "Security",
+        "Workspace",
+        "Kitchen",
+        "Prepaid electricity"
+      ],
+      "image": "/src/assets/images/room_meersig_flat_1794939593577.jpg",
+      "description": "Clean bachelor flat in Ongwediva Central minutes from UNAM Engineering Campus, Ongwediva Medipark, and Maroela Mall. Popular with holiday-working students and visiting technicians.",
+      "highlights": [
+        "Short walk to UNAM José Eduardo dos Santos Campus & shops",
+        "Shaded single carport inside electric-fenced yard",
+        "Air-conditioning and fast Wi-Fi included"
+      ],
+      "houseRules": [
+        "Prepaid electricity meter",
+        "No loud parties"
+      ],
+      "host": {
+        "name": "Johannes Iipinge",
+        "role": "Oshana Flats",
+        "responseTime": "Within 1 hour",
+        "verified": true
+      },
+      "sourceName": "Kalahari Deals — Rooms for rent",
+      "sourceUrl": "https://kalaharideals.com/namibia/rooms-for-rent/",
+      "bookedRanges": [],
+      "createdAt": "2026-11-14T11:00:00Z"
+    },
+    {
+      "id": "run-tutungeni-20",
+      "title": "Rundu Tutungeni Riverside Villa Room & Flat",
+      "neighborhood": "Tutungeni",
+      "city": "Rundu",
+      "region": "Kavango East",
+      "country": "Namibia",
+      "currency": "NAD",
+      "address": "18 Kavango River Road, Tutungeni, Rundu",
+      "lat": -17.9265,
+      "lng": 19.7724,
+      "propertyType": "Studio Flat",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "maxGuests": 2,
+      "areaSqm": 50,
+      "pricePerNight": 790,
+      "monthlyRate": 9200,
+      "cleaningFee": 180,
+      "amenities": [
+        "Wi-Fi",
+        "Parking",
+        "Furnished",
+        "Security",
+        "Kitchen",
+        "Braai area"
+      ],
+      "image": "/src/assets/images/room_windhoek_klein_1794939593406.jpg",
+      "description": "Peaceful self-catering studio unit in Tutungeni near Rundu Mall, PEP, and the Kavango River bank. Ideal for traveling professionals, NGO workers, and seasonal staff.",
+      "highlights": [
+        "Backup water tank and quiet shaded braai courtyard",
+        "5 minutes from Rundu CBD retail and government offices",
+        "Secure gated parking with night guard"
+      ],
+      "houseRules": [
+        "Check-in 14:00",
+        "Quiet hours after 22:00"
+      ],
+      "host": {
+        "name": "Matheus Hausiku",
+        "role": "Kavango East Rentals",
+        "responseTime": "Within 1 hour",
+        "verified": true
+      },
+      "sourceName": "MyProperty Namibia",
+      "sourceUrl": "https://www.myproperty.com.na/",
+      "bookedRanges": [],
+      "createdAt": "2026-11-15T07:45:00Z"
+    },
+    {
+      "id": "kat-zambezi-21",
+      "title": "Katima Mulilo Zambezi Riverfront Garden Suite",
+      "neighborhood": "Ngoma Road",
+      "city": "Katima Mulilo",
+      "region": "Zambezi",
+      "country": "Namibia",
+      "currency": "NAD",
+      "address": "5 Zambezi River Drive, Katima Mulilo",
+      "lat": -17.5015,
+      "lng": 24.2792,
+      "propertyType": "Private Room",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "maxGuests": 2,
+      "areaSqm": 38,
+      "pricePerNight": 740,
+      "monthlyRate": 8500,
+      "cleaningFee": 150,
+      "amenities": [
+        "Wi-Fi",
+        "Parking",
+        "Furnished",
+        "Security",
+        "Kitchen"
+      ],
+      "image": "/src/assets/images/room_walvis_lagoon_1794939592979.jpg",
+      "description": "Cool river-breeze en-suite room with kitchenette on the Zambezi corridor in Katima Mulilo. Convenient for logistics coordinators, cross-border staff, and travelers.",
+      "highlights": [
+        "Shaded veranda overlooking tropical Zambezi gardens",
+        "Air-conditioned room with mosquito screens and Wi-Fi",
+        "Secure off-street parking for 4x4s and sedans"
+      ],
+      "houseRules": [
+        "No indoor smoking",
+        "Flexible late check-in available"
+      ],
+      "host": {
+        "name": "Grace Sibanda",
+        "role": "Zambezi Stays",
+        "responseTime": "Within 2 hours",
+        "verified": true
+      },
+      "sourceName": "Expat.com — Rooms in Namibia",
+      "sourceUrl": "https://www.expat.com/en/housing/africa/namibia/",
+      "bookedRanges": [],
+      "createdAt": "2026-11-15T09:10:00Z"
+    },
+    {
+      "id": "otj-central-22",
+      "title": "Otjiwarongo Orwetoveni Two-Bedroom Townhouse",
+      "neighborhood": "Central",
+      "city": "Otjiwarongo",
+      "region": "Otjozondjupa",
+      "country": "Namibia",
+      "currency": "NAD",
+      "address": "29 Hage Geingob Street, Otjiwarongo",
+      "lat": -20.4612,
+      "lng": 16.6512,
+      "propertyType": "House",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "maxGuests": 4,
+      "areaSqm": 98,
+      "pricePerNight": 980,
+      "monthlyRate": 11200,
+      "cleaningFee": 200,
+      "amenities": [
+        "Wi-Fi",
+        "Parking",
+        "Pets allowed",
+        "Furnished",
+        "Security",
+        "Braai area",
+        "Kitchen"
+      ],
+      "image": "/src/assets/images/room_windhoek_klein_1794939593406.jpg",
+      "description": "Central Otjiwarongo two-bedroom townhouse along the B1 corridor between Windhoek and Etosha/North. Enclosed pet-friendly yard, covered braai patio, and lock-up garage.",
+      "highlights": [
+        "Direct access to Otjiwarongo Town Square and Pupkewitz Megabuild",
+        "Walled courtyard with lock-up garage",
+        "High-speed Wi-Fi and full family kitchen"
+      ],
+      "houseRules": [
+        "Pets welcome with notice",
+        "Check-out 10:00"
+      ],
+      "host": {
+        "name": "Marlize Visser",
+        "role": "RE/MAX Otjozondjupa",
+        "responseTime": "Within 1 hour",
+        "verified": true
+      },
+      "sourceName": "Real Estate Namibia — Rentals",
+      "sourceUrl": "https://www.realestate.co.na/",
+      "bookedRanges": [],
+      "createdAt": "2026-11-15T12:20:00Z"
+    },
+    {
+      "id": "tsu-mine-23",
+      "title": "Tsumeb Nomtsoub Acacia Courtyard Flat",
+      "neighborhood": "Central",
+      "city": "Tsumeb",
+      "region": "Oshikoto",
+      "country": "Namibia",
+      "currency": "NAD",
+      "address": "14 Bahnhof Street, Tsumeb",
+      "lat": -19.2368,
+      "lng": 17.7185,
+      "propertyType": "Apartment",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "maxGuests": 3,
+      "areaSqm": 82,
+      "pricePerNight": 890,
+      "monthlyRate": 10500,
+      "cleaningFee": 180,
+      "amenities": [
+        "Wi-Fi",
+        "Parking",
+        "Furnished",
+        "Security",
+        "Workspace",
+        "Kitchen"
+      ],
+      "image": "/src/assets/images/room_meersig_flat_1794939593577.jpg",
+      "description": "Quiet two-bedroom apartment in leafy Tsumeb designed for copper/industrial engineers, Cymot/retail staff, and Etosha gateway travelers.",
+      "highlights": [
+        "Walking distance to Tsumeb CBD and grocery stores",
+        "Covered carport and alarm-monitored complex",
+        "Air-conditioned bedrooms and workspace desk"
+      ],
+      "houseRules": [
+        "No smoking indoors",
+        "Quiet complex after 22:00"
+      ],
+      "host": {
+        "name": "David Shikomba",
+        "role": "Oshikoto Rentals",
+        "responseTime": "Within 1 hour",
+        "verified": true
+      },
+      "sourceName": "Property24 Namibia",
+      "sourceUrl": "https://www.property24.co.na",
+      "bookedRanges": [],
+      "createdAt": "2026-11-15T14:30:00Z"
+    },
+    {
+      "id": "kmp-south-24",
+      "title": "Keetmanshoop Westdene Solar Garden Room",
+      "neighborhood": "Westdene",
+      "city": "Keetmanshoop",
+      "region": "//Kharas",
+      "country": "Namibia",
+      "currency": "NAD",
+      "address": "11 Hendrik Nell Street, Westdene, Keetmanshoop",
+      "lat": -26.5811,
+      "lng": 18.1318,
+      "propertyType": "Private Room",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "maxGuests": 2,
+      "areaSqm": 34,
+      "pricePerNight": 620,
+      "monthlyRate": 6800,
+      "cleaningFee": 120,
+      "amenities": [
+        "Wi-Fi",
+        "Parking",
+        "Furnished",
+        "Security",
+        "Kitchen"
+      ],
+      "image": "/src/assets/images/room_meersig_flat_1794939593577.jpg",
+      "description": "Cool, air-conditioned private en-suite room in Westdene, Keetmanshoop with shaded parking and kitchenette—ideal for southern Namibia solar technicians, students, and B1 travelers.",
+      "highlights": [
+        "Air-conditioning and shaded carport inside walled yard",
+        "3 minutes from Keetmanshoop CBD and Checkers",
+        "Fast Wi-Fi and self-catering kitchenette"
+      ],
+      "houseRules": [
+        "Check-in 14:00",
+        "No smoking indoors"
+      ],
+      "host": {
+        "name": "Willem Swartbooi",
+        "role": "//Kharas Local Host",
+        "responseTime": "Within 1 hour",
+        "verified": true
+      },
+      "sourceName": "Kalahari Deals — Rooms for rent",
+      "sourceUrl": "https://kalaharideals.com/namibia/rooms-for-rent/",
+      "bookedRanges": [],
+      "createdAt": "2026-11-16T09:00:00Z"
+    },
+    {
+      "id": "gob-east-25",
+      "title": "Gobabis Epako Border Corridor Studio Flat",
+      "neighborhood": "Central",
+      "city": "Gobabis",
+      "region": "Omaheke",
+      "country": "Namibia",
+      "currency": "NAD",
+      "address": "33 Kerk Street, Gobabis",
+      "lat": -22.4485,
+      "lng": 18.9712,
+      "propertyType": "Studio Flat",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "maxGuests": 2,
+      "areaSqm": 46,
+      "pricePerNight": 680,
+      "monthlyRate": 7600,
+      "cleaningFee": 140,
+      "amenities": [
+        "Wi-Fi",
+        "Parking",
+        "Furnished",
+        "Security",
+        "Kitchen",
+        "Prepaid electricity"
+      ],
+      "image": "/src/assets/images/room_walvis_lagoon_1794939592979.jpg",
+      "description": "Self-catering studio flat along the Trans-Kalahari Highway in Gobabis. Popular overnight and monthly stay for cross-border logistics coordinators, agri-consultants, and local retail staff.",
+      "highlights": [
+        "Quick access to Trans-Kalahari border route",
+        "Secure paved parking behind automated gate",
+        "Equipped kitchenette and fast Wi-Fi"
+      ],
+      "houseRules": [
+        "Quiet hours after 22:00",
+        "Check-out 10:00"
+      ],
+      "host": {
+        "name": "Katriena Tjitendero",
+        "role": "Omaheke Stays",
+        "responseTime": "Within 2 hours",
+        "verified": true
+      },
+      "sourceName": "Property24 Namibia",
+      "sourceUrl": "https://www.property24.co.na",
+      "bookedRanges": [],
+      "createdAt": "2026-11-15T10:30:00Z"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "bkg_sample_past_stay",
+      "confirmationCode": "WBR-2026-7410",
+      "propertyId": "wb-meersig-02",
+      "propertyTitle": "Meersig Coastal Studio Flat & Courtyard",
+      "propertyImage": "/src/assets/images/room_meersig_flat_1794939593577.jpg",
+      "propertyLocation": "Meersig, Walvis Bay",
+      "checkIn": "2026-11-10",
+      "checkOut": "2026-11-13",
+      "nights": 3,
+      "guests": 2,
+      "guestName": "Salmo Mengela",
+      "guestEmail": "salmomengela319@gmail.com",
+      "guestPhone": "+264 81 555 0192",
+      "pricePerNight": 920,
+      "subtotal": 2760,
+      "cleaningFee": 200,
+      "serviceFee": 221,
+      "totalAmount": 3181,
+      "paymentMethod": "card",
+      "paymentSummary": "Visa •••• 4242",
+      "transactionId": "TXN-SAMPLE-7410",
+      "status": "confirmed",
+      "createdAt": "2026-11-08T12:00:00Z",
+      "emailNotification": {
+        "id": "eml_sample_7410",
+        "to": "salmomengela319@gmail.com",
+        "from": "bookings@walvisbayrental.na",
+        "subject": "Booking Confirmed (WBR-2026-7410) — Meersig Coastal Studio Flat & Courtyard",
+        "sentAt": "2026-11-08T12:00:02Z",
+        "confirmationCode": "WBR-2026-7410",
+        "bodyText": "Dear Salmo Mengela,\n\nYour reservation at Meersig Coastal Studio Flat & Courtyard is confirmed.\n\nConfirmation Code: WBR-2026-7410\nCheck-in: 2026-11-10 (from 14:00)\nCheck-out: 2026-11-13 (by 10:00)\nTotal Paid: N$3,181 (Visa •••• 4242)\n\nThank you for booking with Walvis Bay Rental.",
+        "checkInInstructions": "Self check-in from 14:00 at 8 Pelican Street, Meersig, Walvis Bay."
+      }
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev_seed_1",
+      "propertyId": "wb-lagoon-01",
+      "bookingId": "bkg_hist_101",
+      "confirmationCode": "WBR-2026-8412",
+      "guestName": "Lukas Hamutenya",
+      "rating": 5,
+      "title": "Unbeatable morning views across the lagoon",
+      "comment": "Waking up to flamingos right outside the sliding doors was unforgettable. The fiber connection held steady for video calls all week and the basement parking felt very safe.",
+      "stayDates": "Oct 14 – Oct 18, 2026",
+      "createdAt": "2026-10-19T10:15:00Z"
+    },
+    {
+      "id": "rev_seed_2",
+      "propertyId": "wb-lagoon-01",
+      "bookingId": "bkg_hist_102",
+      "confirmationCode": "WBR-2026-8891",
+      "guestName": "Marike de Vries",
+      "rating": 5,
+      "title": "Spotless coastal apartment, sheltered from afternoon wind",
+      "comment": "Helena welcomed us with fresh coffee beans and local dining tips. Walking distance to The Raft and the boardwalk. Would happily book again on our next Walvis Bay trip.",
+      "stayDates": "Oct 27 – Oct 30, 2026",
+      "createdAt": "2026-10-31T14:40:00Z"
+    },
+    {
+      "id": "rev_seed_3",
+      "propertyId": "wb-meersig-02",
+      "bookingId": "bkg_hist_103",
+      "confirmationCode": "WBR-2026-9034",
+      "guestName": "David Nghipondoka",
+      "rating": 5,
+      "title": "Quiet workspace and great pet-friendly courtyard",
+      "comment": "Stayed for five nights while consulting at the port. Loved having an enclosed garden for our terrier and the solar backup kept the router online during grid maintenance.",
+      "stayDates": "Nov 02 – Nov 07, 2026",
+      "createdAt": "2026-11-08T09:05:00Z"
+    },
+    {
+      "id": "rev_seed_4",
+      "propertyId": "wb-langstrand-03",
+      "bookingId": "bkg_hist_104",
+      "confirmationCode": "WBR-2026-9120",
+      "guestName": "Stefanus & Claire Botha",
+      "rating": 5,
+      "title": "Ideal family dune villa with sheltered indoor braai",
+      "comment": "Four spacious bedrooms, clean finishes, and literally steps from Long Beach. Having the indoor braai room made coastal evenings effortless even when the fog rolled in.",
+      "stayDates": "Oct 20 – Oct 25, 2026",
+      "createdAt": "2026-10-26T16:20:00Z"
+    },
+    {
+      "id": "rev_seed_5",
+      "propertyId": "wb-central-04",
+      "bookingId": "bkg_hist_105",
+      "confirmationCode": "WBR-2026-9211",
+      "guestName": "Kambazembi Tjiuma",
+      "rating": 4,
+      "title": "Walkable to the harbor and very secure",
+      "comment": "Super convenient for morning port meetings. Gate security was attentive and the loft kitchen had everything needed for a week-long stay.",
+      "stayDates": "Nov 04 – Nov 09, 2026",
+      "createdAt": "2026-11-10T11:30:00Z"
+    },
+    {
+      "id": "rev_seed_6",
+      "propertyId": "swk-vineta-09",
+      "bookingId": "bkg_hist_106",
+      "confirmationCode": "WBR-2026-9305",
+      "guestName": "Nadia Jacobs",
+      "rating": 5,
+      "title": "Calm coastal design right near Platz am Meer",
+      "comment": "Beautiful concrete and oak living room, super friendly hosts, and a secure lawn for our dog. Easy 20-minute drive down the B2 into Walvis Bay.",
+      "stayDates": "Nov 06 – Nov 10, 2026",
+      "createdAt": "2026-11-11T15:10:00Z"
+    },
+    {
+      "id": "rev_seed_7",
+      "propertyId": "whk-klein-10",
+      "bookingId": "bkg_hist_107",
+      "confirmationCode": "WBR-2026-9388",
+      "guestName": "Elena Mutorwa",
+      "rating": 5,
+      "title": "Stunning Klein Windhoek terrace sunsets",
+      "comment": "Quiet hillside estate with top-notch security and fast Wi-Fi. Great stopover before heading to the coast.",
+      "stayDates": "Nov 09 – Nov 12, 2026",
+      "createdAt": "2026-11-13T08:45:00Z"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "job-wb-woermann-real-01",
+      "title": "In-Store Cashier, Floor Assistant & Holiday Retail Intake",
+      "company": "Woermann Brock Supermarket",
+      "country": "Namibia",
+      "city": "Walvis Bay",
+      "region": "Erongo",
+      "lat": -22.9561,
+      "lng": 14.5048,
+      "sector": "Retail & Local Stores",
+      "employmentType": "Holiday Casual",
+      "salaryMin": 3800,
+      "salaryMax": 5400,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Active Woermann Brock Namibia recruitment board intake for cashiers, floor assistants, bakery/deli support, and retail trainee roles — suited for Namibian students seeking holiday shifts and local store experience.",
+      "requirements": [
+        "Namibian ID and Grade 12 (or current tertiary student on holiday break)",
+        "Basic numeracy, honesty, and strong customer service in English/local languages",
+        "Apply directly via official yourwoermann.com job board"
+      ],
+      "benefits": [
+        "Official Woermann Brock Namibia branch placement",
+        "Sunday and public holiday shift rates where applicable"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Open to Namibian students on holiday & local residents",
+      "isStudentHoliday": true,
+      "sourceName": "Woermann Brock Careers",
+      "sourceUrl": "https://www.yourwoermann.com/",
+      "applicationDeadline": "2026-12-20",
+      "postedAt": "2026-11-10T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-whk-shoprite-real-02",
+      "title": "In-Store Cashier, Shelf Packer & Bakery / Butchery Intake",
+      "company": "Shoprite Namibia",
+      "country": "Namibia",
+      "city": "Windhoek",
+      "region": "Khomas",
+      "lat": -22.5671,
+      "lng": 17.0829,
+      "sector": "Retail & Local Stores",
+      "employmentType": "Holiday Casual",
+      "salaryMin": 3600,
+      "salaryMax": 5000,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Shoprite Namibia continuous branch talent pool for cashiers, shelf packers, bakery, and butchery assistants across Windhoek and coastal supermarkets during the festive holiday season.",
+      "requirements": [
+        "Namibian citizenship with Grade 11/12 or tertiary student status",
+        "Register profile directly on the official apply.shoprite.jobs portal",
+        "Available for rotating store and weekend shifts"
+      ],
+      "benefits": [
+        "Direct Shoprite Group digital portal intake",
+        "Opportunity to transition from holiday casual to ongoing store shifts"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Open to Namibian students on holiday & local youth",
+      "isStudentHoliday": true,
+      "sourceName": "Shoprite & Checkers Careers",
+      "sourceUrl": "https://apply.shoprite.jobs/",
+      "applicationDeadline": "2026-12-22",
+      "postedAt": "2026-11-11T08:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-wb-pnp-real-03",
+      "title": "Frontline Store, Bakery & Customer Service Intake",
+      "company": "Pick n Pay Namibia (O&L Group)",
+      "country": "Namibia",
+      "city": "Walvis Bay",
+      "region": "Erongo",
+      "lat": -22.9512,
+      "lng": 14.5194,
+      "sector": "Retail & Local Stores",
+      "employmentType": "Holiday Casual",
+      "salaryMin": 4000,
+      "salaryMax": 5500,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Ohlthaver & List (O&L) / Pick n Pay Namibia supermarket intake for frontline customer service, bakery assistants, and seasonal store support across coastal and Windhoek branches.",
+      "requirements": [
+        "Namibian ID and Grade 12 (or enrolled student available for holiday shifts)",
+        "Positive customer care and food hygiene awareness",
+        "Submit CV via official O&L Careers portal"
+      ],
+      "benefits": [
+        "O&L Group structured retail onboarding",
+        "Festive season store scheduling"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Open to Namibian holiday students & local applicants",
+      "isStudentHoliday": true,
+      "sourceName": "O&L Careers (Pick n Pay)",
+      "sourceUrl": "https://www.ol.na/",
+      "applicationDeadline": "2026-12-19",
+      "postedAt": "2026-11-12T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-swk-capeunion-real-04",
+      "title": "Permanent Sales Assistant — Platz am Meer",
+      "company": "Cape Union Mart (Namibia)",
+      "country": "Namibia",
+      "city": "Swakopmund",
+      "region": "Erongo",
+      "lat": -22.6485,
+      "lng": 14.5251,
+      "sector": "Retail & Local Stores",
+      "employmentType": "Full-time",
+      "salaryMin": 5500,
+      "salaryMax": 7500,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Active Careers24 Namibia retail vacancy at Cape Union Mart, Platz am Meer Mall in Swakopmund. Assist coastal shoppers with outdoor apparel, footwear, and point-of-sale transactions.",
+      "requirements": [
+        "Grade 12 certificate with retail or customer-facing sales experience",
+        "Willingness to work retail mall hours including weekends",
+        "Apply before the closing deadline on Careers24 Namibia"
+      ],
+      "benefits": [
+        "Permanent coastal mall placement in Swakopmund",
+        "Staff retail discount & commission incentives"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Open to Namibian retail candidates (Erongo)",
+      "isStudentHoliday": false,
+      "sourceName": "Careers24 Namibia",
+      "sourceUrl": "https://www.careers24.com.na/",
+      "applicationDeadline": "2026-11-21",
+      "postedAt": "2026-11-14T08:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-whk-toysrus-real-05",
+      "title": "Store Manager (Namibia)",
+      "company": "Toys R Us & Babies R Us Namibia",
+      "country": "Namibia",
+      "city": "Windhoek",
+      "region": "Khomas",
+      "lat": -22.5735,
+      "lng": 17.0872,
+      "sector": "Retail & Local Stores",
+      "employmentType": "Full-time",
+      "salaryMin": 18000,
+      "salaryMax": 26000,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Permanent Store Manager vacancy listed on Careers24 Namibia leading store merchandising, holiday inventory turnover, staff rostering, and customer service targets.",
+      "requirements": [
+        "3+ years retail store management or assistant manager experience in Namibia",
+        "Strong stock control, POS cash-up, and team leadership record",
+        "Apply directly via Careers24 Namibia"
+      ],
+      "benefits": [
+        "Permanent leadership role in Windhoek retail",
+        "Monthly performance incentives & retail benefits"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Open to Namibian retail managers",
+      "isStudentHoliday": false,
+      "sourceName": "Careers24 Namibia",
+      "sourceUrl": "https://www.careers24.com.na/",
+      "applicationDeadline": "2026-12-05",
+      "postedAt": "2026-11-12T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-whk-clicks-real-06",
+      "title": "Store Assistant & Festive Retail Pool (Windhoek & Mega Centre)",
+      "company": "Clicks Namibia",
+      "country": "Namibia",
+      "city": "Windhoek",
+      "region": "Khomas",
+      "lat": -22.5762,
+      "lng": 17.0885,
+      "sector": "Retail & Local Stores",
+      "employmentType": "Holiday Casual",
+      "salaryMin": 4100,
+      "salaryMax": 5600,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Clicks Group official career portal vacancies for Namibian branches (Windhoek, Lafrenz, Mega Centre), covering frontline cashiers, store assistants, and seasonal festive cover.",
+      "requirements": [
+        "Grade 12 certificate (or tertiary student on holiday break)",
+        "Accurate till operation and clean record verification",
+        "Apply online on the official Clicks Group Careers portal"
+      ],
+      "benefits": [
+        "Clicks Group staff store discount",
+        "Structured retail shift roster"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Open to Namibian holiday students & local residents",
+      "isStudentHoliday": true,
+      "sourceName": "Clicks Group Careers",
+      "sourceUrl": "https://careers.clicksgroup.co.za/",
+      "applicationDeadline": "2026-12-12",
+      "postedAt": "2026-11-10T10:15:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-whk-wecke-spar-real-07",
+      "title": "Retail, Wholesale & Partner SPAR CV Intake (Maerua / Grove / Westlane)",
+      "company": "Wecke & Voigts Group & SPAR Namibia",
+      "country": "Namibia",
+      "city": "Windhoek",
+      "region": "Khomas",
+      "lat": -22.5812,
+      "lng": 17.0894,
+      "sector": "Retail & Local Stores",
+      "employmentType": "Holiday Casual",
+      "salaryMin": 3900,
+      "salaryMax": 5300,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Official Wecke & Voigts talent submission portal covering department store retail, wholesale, and partner SPAR supermarkets (Maerua, The Grove, Westlane, Hochland) — ideal for students seeking holiday store shifts.",
+      "requirements": [
+        "Submit CV via official weckevoigts.com/submit-cv/ specifying SPAR or Retail preference",
+        "Namibian ID and Grade 12 / tertiary student enrollment"
+      ],
+      "benefits": [
+        "Direct placement across Windhoek SPAR & retail branches",
+        "Flexible student holiday & weekend availability"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Open to Namibian holiday students & local residents",
+      "isStudentHoliday": true,
+      "sourceName": "Wecke & Voigts / SPAR Portal",
+      "sourceUrl": "https://weckevoigts.com/submit-cv/",
+      "applicationDeadline": "2026-12-18",
+      "postedAt": "2026-11-11T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-osh-hungry-real-08",
+      "title": "Store Crew & Quick-Service Counter Talent Pool",
+      "company": "Hungry Lion Namibia",
+      "country": "Namibia",
+      "city": "Oshakati",
+      "region": "Oshana",
+      "lat": -17.7912,
+      "lng": 15.7049,
+      "sector": "Hospitality & Tourism",
+      "employmentType": "Holiday Casual",
+      "salaryMin": 3400,
+      "salaryMax": 4600,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Official Hungry Lion Namibia recruitment intake for store counter crew, kitchen support, and trainee shift supervisors across Oshakati, Windhoek, and regional branches.",
+      "requirements": [
+        "Namibian citizen aged 18+ (students on holiday welcome)",
+        "Apply through official hungrylion.co.na recruitment channels"
+      ],
+      "benefits": [
+        "Staff meal provided on shift",
+        "Fast-track hospitality & POS training"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Open to Namibian students on holiday & local youth",
+      "isStudentHoliday": true,
+      "sourceName": "Hungry Lion Namibia Careers",
+      "sourceUrl": "https://hungrylion.co.na/",
+      "applicationDeadline": "2026-12-20",
+      "postedAt": "2026-11-13T12:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-run-pep-real-09",
+      "title": "Retail Store & Seasonal Sales Assistant (Namibia Filter)",
+      "company": "PEP Namibia",
+      "country": "Namibia",
+      "city": "Rundu",
+      "region": "Kavango East",
+      "lat": -17.9355,
+      "lng": 19.7689,
+      "sector": "Retail & Local Stores",
+      "employmentType": "Holiday Casual",
+      "salaryMin": 3500,
+      "salaryMax": 4700,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Official PEP recruitment portal (filter location: Namibia) hiring seasonal festive and back-to-school store assistants, till operators, and stockroom helpers nationwide.",
+      "requirements": [
+        "Grade 12 certificate or active tertiary student on holiday break",
+        "Apply online at pep.mcidirecthire.com selecting Namibia"
+      ],
+      "benefits": [
+        "Paid POS & merchandising training",
+        "Uniform provided"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Open to Namibian holiday students & local residents",
+      "isStudentHoliday": true,
+      "sourceName": "PEP Careers (Namibia)",
+      "sourceUrl": "https://pep.mcidirecthire.com/",
+      "applicationDeadline": "2026-12-21",
+      "postedAt": "2026-11-12T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-whk-pupkewitz-real-10",
+      "title": "Hardware Store Picker, Counter Sales & Yard Receiver",
+      "company": "Pupkewitz Megabuild",
+      "country": "Namibia",
+      "city": "Windhoek",
+      "region": "Khomas",
+      "lat": -22.5535,
+      "lng": 17.0772,
+      "sector": "Retail & Local Stores",
+      "employmentType": "Holiday Casual",
+      "salaryMin": 4500,
+      "salaryMax": 6500,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Pupkewitz Megabuild Trending Talent portal intake for pickers, counter salespersons, receiving clerks, yard assistants, and graduate trainees across Namibian branches.",
+      "requirements": [
+        "Grade 12 certificate (students on holiday or trade trainees welcome)",
+        "Apply directly via official megabuild.com.na careers portal"
+      ],
+      "benefits": [
+        "Competitive Pupkewitz Group compensation",
+        "Hands-on building supply & logistics experience"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Open to Namibian students on holiday & local residents",
+      "isStudentHoliday": true,
+      "sourceName": "Pupkewitz Megabuild Careers",
+      "sourceUrl": "https://www.megabuild.com.na/",
+      "applicationDeadline": "2026-12-15",
+      "postedAt": "2026-11-11T09:50:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-tsu-cymot-real-11",
+      "title": "Motor Spares, Camping & PPE Counter Sales Intake",
+      "company": "Cymot Namibia",
+      "country": "Namibia",
+      "city": "Tsumeb",
+      "region": "Oshikoto",
+      "lat": -19.2345,
+      "lng": 17.7172,
+      "sector": "Retail & Local Stores",
+      "employmentType": "Full-time",
+      "salaryMin": 6800,
+      "salaryMax": 9500,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Cymot Namibia recruitment intake for motor spares, Greensport outdoor camping gear, tools, and PPE counter sales across Tsumeb, Otjiwarongo, and Windhoek.",
+      "requirements": [
+        "Grade 12 certificate with retail parts or store sales aptitude",
+        "Computer literacy and valid Code B driver’s license advantageous"
+      ],
+      "benefits": [
+        "Medical aid & pension benefits",
+        "Staff purchase discount"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Open to Namibian citizens & permanent residents",
+      "isStudentHoliday": false,
+      "sourceName": "Cymot Namibia Official",
+      "sourceUrl": "https://www.cymot.com/",
+      "applicationDeadline": "2026-12-14",
+      "postedAt": "2026-11-10T11:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-whk-bw-clerk-12",
+      "title": "Administrative Clerk (RB3) — Capricorn Branch",
+      "company": "Bank Windhoek (Capricorn Group)",
+      "country": "Namibia",
+      "city": "Windhoek",
+      "region": "Khomas",
+      "lat": -22.5678,
+      "lng": 17.0842,
+      "sector": "Finance & Audit",
+      "employmentType": "Full-time",
+      "salaryMin": 14000,
+      "salaryMax": 19500,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Active Bank Windhoek RB3 Administrative Clerk vacancy at Capricorn Branch. Support customer onboarding documentation, filing accuracy, and daily branch banking operations.",
+      "requirements": [
+        "Grade 12 with 25+ points and strong attention to administrative detail",
+        "Banking or financial office administration experience advantageous",
+        "Submit application on bankwindhoek.com.na before closing date"
+      ],
+      "benefits": [
+        "Bank Windhoek employee banking rates, medical aid & pension",
+        "Structured career progression within Capricorn Group"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Open to Namibian citizens & permanent residents",
+      "isStudentHoliday": false,
+      "sourceName": "Bank Windhoek Careers",
+      "sourceUrl": "https://www.bankwindhoek.com.na/",
+      "applicationDeadline": "2026-11-23",
+      "postedAt": "2026-11-09T08:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-whk-bw-fx-13",
+      "title": "Manager: Foreign Exchange & Reconciliations (Treasury Back Office)",
+      "company": "Bank Windhoek (Capricorn Group)",
+      "country": "Namibia",
+      "city": "Windhoek",
+      "region": "Khomas",
+      "lat": -22.5665,
+      "lng": 17.0831,
+      "sector": "Finance & Audit",
+      "employmentType": "Full-time",
+      "salaryMin": 42000,
+      "salaryMax": 58000,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Lead foreign exchange settlement controls, nostro/vostro reconciliations, and cross-border regulatory reporting inside Bank Windhoek’s Treasury Back Office.",
+      "requirements": [
+        "Bachelor’s degree in Finance, Accounting, or Banking",
+        "5+ years treasury operations, SWIFT/FX settlement, and team supervision",
+        "Apply on bankwindhoek.com.na before 26 November 2026"
+      ],
+      "benefits": [
+        "Senior Capricorn Group management remuneration & bonus",
+        "Comprehensive medical aid & retirement fund"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Open to Namibian banking & finance specialists",
+      "isStudentHoliday": false,
+      "sourceName": "Bank Windhoek Careers",
+      "sourceUrl": "https://www.bankwindhoek.com.na/",
+      "applicationDeadline": "2026-11-26",
+      "postedAt": "2026-11-10T08:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-whk-bw-prop-14",
+      "title": "Senior Collateral Officer (GL7) — Property Finance Branch",
+      "company": "Bank Windhoek (Capricorn Group)",
+      "country": "Namibia",
+      "city": "Windhoek",
+      "region": "Khomas",
+      "lat": -22.5655,
+      "lng": 17.0848,
+      "sector": "Finance & Audit",
+      "employmentType": "Full-time",
+      "salaryMin": 26000,
+      "salaryMax": 35000,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Active Property Finance Branch vacancy managing mortgage bond security verification, deeds office registrations, and collateral perfection in Windhoek.",
+      "requirements": [
+        "Diploma or Degree in Law, Banking, or Finance",
+        "Experience with Namibian property finance collateral & deeds registration",
+        "Apply via bankwindhoek.com.na before 29 November 2026"
+      ],
+      "benefits": [
+        "Preferential home loan staff rates & pension fund",
+        "Medical aid cover"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Open to Namibian citizens & permanent residents",
+      "isStudentHoliday": false,
+      "sourceName": "Bank Windhoek Careers",
+      "sourceUrl": "https://www.bankwindhoek.com.na/",
+      "applicationDeadline": "2026-11-29",
+      "postedAt": "2026-11-11T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-whk-bw-maerua-15",
+      "title": "Universal Consultant (RB4–RB6) — Maerua Mall Branch",
+      "company": "Bank Windhoek (Capricorn Group)",
+      "country": "Namibia",
+      "city": "Windhoek",
+      "region": "Khomas",
+      "lat": -22.5835,
+      "lng": 17.0912,
+      "sector": "Finance & Audit",
+      "employmentType": "Full-time",
+      "salaryMin": 18000,
+      "salaryMax": 25000,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Serve walk-in retail and SME clients at Bank Windhoek Maerua Mall Branch across everyday accounts, digital banking onboarding, and credit inquiries.",
+      "requirements": [
+        "Grade 12 + banking certificate or commerce qualification",
+        "Strong client advisory and branch service track record",
+        "Apply before 30 November 2026 via bankwindhoek.com.na"
+      ],
+      "benefits": [
+        "Capricorn Group medical, pension & branch bonus structure"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Open to Namibian banking consultants",
+      "isStudentHoliday": false,
+      "sourceName": "Bank Windhoek Careers",
+      "sourceUrl": "https://www.bankwindhoek.com.na/",
+      "applicationDeadline": "2026-11-30",
+      "postedAt": "2026-11-12T08:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-whk-nampost-16",
+      "title": "Manager: Marketing and Research",
+      "company": "NamPost (Namibia Post)",
+      "country": "Namibia",
+      "city": "Windhoek",
+      "region": "Khomas",
+      "lat": -22.5641,
+      "lng": 17.0819,
+      "sector": "Finance & Audit",
+      "employmentType": "Full-time",
+      "salaryMin": 40000,
+      "salaryMax": 54000,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Active public enterprise vacancy on NamPost e-Recruitment leading brand strategy, market intelligence, and financial/postal product adoption research across Namibia.",
+      "requirements": [
+        "Bachelor’s or Honours degree in Marketing, Research, or Commerce",
+        "5+ years marketing leadership and quantitative market research",
+        "Apply via official nampost.com.na e-Recruitment before 03 December 2026"
+      ],
+      "benefits": [
+        "NamPost public enterprise medical aid & pension",
+        "Performance bonus"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Open to Namibian citizens & permanent residents",
+      "isStudentHoliday": false,
+      "sourceName": "NamPost e-Recruitment",
+      "sourceUrl": "https://www.nampost.com.na/",
+      "applicationDeadline": "2026-12-03",
+      "postedAt": "2026-11-12T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-karas-psm-17",
+      "title": "Public Service Management Circular No. 1 of 2026 — Regional & Works Posts",
+      "company": "//Kharas Regional Council & OPM",
+      "country": "Namibia",
+      "city": "Keetmanshoop",
+      "region": "//Kharas",
+      "lat": -26.5833,
+      "lng": 18.1333,
+      "sector": "Construction",
+      "employmentType": "Full-time",
+      "salaryMin": 24000,
+      "salaryMax": 35000,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Official Public Service Management Circular No. 1 of 2026 (published 06 November 2026, closing 07 December 2026) covering Directorate staff and Senior Works Inspector positions. Submit revised Form 156043 & Health Questionnaire 156094 to Private Bag 2184, Keetmanshoop.",
+      "requirements": [
+        "Namibian citizen with relevant qualification + NQA evaluation if foreign",
+        "Completed revised GRN Application Form 156043 & Form 156094",
+        "Deliver or mail to Chief Regional Officer, Private Bag 2184, Keetmanshoop by 07 Dec 2026"
+      ],
+      "benefits": [
+        "PSEMAS medical aid, GIPF pension, housing subsidy & 13th cheque"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Namibian citizens (GRN Public Service Circular No. 1 of 2026)",
+      "isStudentHoliday": false,
+      "sourceName": "Karas Regional Council Vacancies",
+      "sourceUrl": "https://karasrc.gov.na/",
+      "applicationDeadline": "2026-12-07",
+      "postedAt": "2026-11-06T08:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-opm-circular-18",
+      "title": "Office of the Prime Minister — PSM Circular No. I of 2026 Vacancies",
+      "company": "Office of the Prime Minister (Public Service of Namibia)",
+      "country": "Namibia",
+      "city": "Windhoek",
+      "region": "Khomas",
+      "lat": -22.5642,
+      "lng": 17.0825,
+      "sector": "IT & Engineering",
+      "employmentType": "Full-time",
+      "salaryMin": 26000,
+      "salaryMax": 44000,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Administrative, IT, management, and professional vacancies across Government Ministries and Agencies listed in PSM Circular No. I of 2026 and coordinated via OPM & NIEIS.",
+      "requirements": [
+        "Namibian citizenship & certified academic transcripts (NQA evaluated if foreign)",
+        "Revised Form 156043 & Health Questionnaire Form 156094",
+        "Track daily ministry calls via nieis.namibiaatwork.gov.na"
+      ],
+      "benefits": [
+        "GRN Public Service GIPF pension, PSEMAS & annual bonus"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Namibian citizens (OPM / NIEIS Public Service Portal)",
+      "isStudentHoliday": false,
+      "sourceName": "Office of the Prime Minister Portal",
+      "sourceUrl": "https://nieis.namibiaatwork.gov.na/",
+      "applicationDeadline": "2026-12-07",
+      "postedAt": "2026-11-06T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-otj-mun-19",
+      "title": "Technical Infrastructure & Municipal Administration Vacancies",
+      "company": "Municipality of Otjiwarongo",
+      "country": "Namibia",
+      "city": "Otjiwarongo",
+      "region": "Otjozondjupa",
+      "lat": -20.4637,
+      "lng": 16.6477,
+      "sector": "Construction",
+      "employmentType": "Full-time",
+      "salaryMin": 22000,
+      "salaryMax": 34000,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Official Municipality of Otjiwarongo vacancies spanning technical infrastructure, engineering, and municipal administration. Download the official Application for Employment form at otjimun.org.na and submit to No. 2 Kreft Street, Otjiwarongo.",
+      "requirements": [
+        "Official Municipality of Otjiwarongo Application for Employment form",
+        "Certified copies of qualifications and Namibian ID",
+        "Submit to HR Section, Private Bag 2209, No. 2 Kreft Street, Otjiwarongo"
+      ],
+      "benefits": [
+        "Municipal housing allowance, pension & medical aid"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Open to Namibian citizens & local authority applicants",
+      "isStudentHoliday": false,
+      "sourceName": "Municipality of Otjiwarongo Vacancies",
+      "sourceUrl": "https://otjimun.org.na/",
+      "applicationDeadline": "2026-12-11",
+      "postedAt": "2026-11-11T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-whk-lotus-fin-20",
+      "title": "Financial and Commercial Manager",
+      "company": "Lotus HR (Namibian Biomass Producer)",
+      "country": "Namibia",
+      "city": "Windhoek",
+      "region": "Khomas",
+      "lat": -22.5592,
+      "lng": 17.0794,
+      "sector": "Finance & Audit",
+      "employmentType": "Full-time",
+      "salaryMin": 55000,
+      "salaryMax": 78000,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Active Careers24 Namibia senior role leading financial controls, export commercial contracts, and working capital for a private-equity-backed Namibian biomass producer.",
+      "requirements": [
+        "CA(NAM) / CIMA / BCom Honours in Accounting",
+        "5+ years commercial & industrial finance leadership",
+        "Apply online via Careers24 Namibia before mid-December 2026"
+      ],
+      "benefits": [
+        "Executive remuneration package & performance bonus"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Open to Namibian & SADC-eligible chartered accountants",
+      "isStudentHoliday": false,
+      "sourceName": "Careers24 Namibia",
+      "sourceUrl": "https://www.careers24.com.na/",
+      "applicationDeadline": "2026-12-16",
+      "postedAt": "2026-11-15T08:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-osino-twinhills-21",
+      "title": "Metallurgist, Plant Superintendent & Mine Safety / Engineering Roles",
+      "company": "Osino Resources Namibia (Twin Hills)",
+      "country": "Namibia",
+      "city": "Otjiwarongo",
+      "region": "Otjozondjupa",
+      "lat": -21.9324,
+      "lng": 15.8542,
+      "sector": "Mining & Energy",
+      "employmentType": "Full-time",
+      "salaryMin": 36000,
+      "salaryMax": 65000,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Active 2026 project recruitment for Osino Resources (Twin Hills Gold Project corridor near Karibib/Otjiwarongo) covering Metallurgists, Plant Superintendents, Mining Engineers, and Safety/Admin Officers. Apply online only via recruitment@osinoresources.com.",
+      "requirements": [
+        "B.Eng / BSc Metallurgy, Mining Engineering, or Safety Management qualification",
+        "Relevant gold or hard-rock mining project experience in Namibia",
+        "Submit CV strictly via recruitment@osinoresources.com (no hard copies)"
+      ],
+      "benefits": [
+        "Mining project remuneration + medical aid & site allowances"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Namibian citizens & qualified mining professionals",
+      "isStudentHoliday": false,
+      "sourceName": "Osino Resources Careers",
+      "sourceUrl": "https://osinoresources.com/",
+      "applicationDeadline": "2026-12-18",
+      "postedAt": "2026-11-13T12:15:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-epangelo-mining-22",
+      "title": "Geology, Mining Engineering & Internship Pipeline",
+      "company": "Epangelo Mining Company",
+      "country": "Namibia",
+      "city": "Windhoek",
+      "region": "Khomas",
+      "lat": -22.5698,
+      "lng": 17.0865,
+      "sector": "Mining & Energy",
+      "employmentType": "Full-time",
+      "salaryMin": 32000,
+      "salaryMax": 58000,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Official Epangelo Mining Company careers portal for state mineral exploration, mining engineering, corporate advisory, and student/graduate internship intakes.",
+      "requirements": [
+        "BSc Geology, Mining Engineering, or relevant corporate/legal degree",
+        "Apply directly on the official epangelomining.na vacancies portal"
+      ],
+      "benefits": [
+        "State-enterprise benefits, pension & field allowances"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Namibian citizens & qualified mineral sector applicants",
+      "isStudentHoliday": false,
+      "sourceName": "Epangelo Mining Careers",
+      "sourceUrl": "https://www.epangelomining.na/",
+      "applicationDeadline": "2026-12-15",
+      "postedAt": "2026-11-10T07:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-whk-salesadmin-23",
+      "title": "Sales Administrator (Permanent)",
+      "company": "Windhoek Commercial Recruitment (Careers24)",
+      "country": "Namibia",
+      "city": "Windhoek",
+      "region": "Khomas",
+      "lat": -22.5618,
+      "lng": 17.0875,
+      "sector": "Retail & Local Stores",
+      "employmentType": "Full-time",
+      "salaryMin": 11500,
+      "salaryMax": 16500,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Active permanent Sales Administrator role posted on Careers24 Namibia supporting quotations, client order tracking, invoicing, and CRM reporting in Windhoek.",
+      "requirements": [
+        "Grade 12 + 2 years sales administration or invoicing experience",
+        "Proficiency in MS Excel & ERP invoicing systems",
+        "Apply via Careers24 Namibia"
+      ],
+      "benefits": [
+        "Permanent Windhoek commercial appointment"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Open to Namibian residents",
+      "isStudentHoliday": false,
+      "sourceName": "Careers24 Namibia",
+      "sourceUrl": "https://www.careers24.com.na/",
+      "applicationDeadline": "2027-01-16",
+      "postedAt": "2026-11-16T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-whk-ioco-tech-24",
+      "title": "Onsite Technical Support (iOCO0205)",
+      "company": "iOCO Namibia",
+      "country": "Namibia",
+      "city": "Windhoek",
+      "region": "Khomas",
+      "lat": -22.5621,
+      "lng": 17.0815,
+      "sector": "IT & Engineering",
+      "employmentType": "Contract",
+      "salaryMin": 22000,
+      "salaryMax": 34000,
+      "currency": "NAD",
+      "salaryPeriod": "month",
+      "description": "Active IT contract role (ref iOCO0205) on Careers24 Namibia providing onsite desktop, network, and enterprise user technical support for Namibian client sites.",
+      "requirements": [
+        "IT Diploma / CompTIA A+ & Network+ or Microsoft 365 certifications",
+        "2+ years onsite enterprise technical support",
+        "Apply via Careers24 Namibia"
+      ],
+      "benefits": [
+        "Fixed-term IT contract with enterprise exposure across Namibia"
+      ],
+      "eligibilityScope": "Namibia",
+      "eligibilityNote": "Open to Namibian IT support engineers",
+      "isStudentHoliday": false,
+      "sourceName": "Careers24 Namibia",
+      "sourceUrl": "https://www.careers24.com.na/",
+      "applicationDeadline": "2027-01-17",
+      "postedAt": "2026-11-16T10:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-sadc-gab-policy-25",
+      "title": "Senior Officer – Policy and Strategy (Grade 4)",
+      "company": "SADC Secretariat",
+      "country": "Botswana",
+      "city": "Gaborone",
+      "region": "South-East",
+      "lat": -24.6541,
+      "lng": 25.9087,
+      "sector": "Finance & Audit",
+      "employmentType": "Contract",
+      "salaryMin": 4800,
+      "salaryMax": 6200,
+      "currency": "USD",
+      "salaryPeriod": "month",
+      "description": "Official SADC Secretariat 4-year renewable fixed-term role at Headquarters in Gaborone, Botswana (closing 20 November 2026 at 12:00). Lead development policy research, RISDP integration analysis, and advisory across all 16 SADC Member States. Submit via the Namibian SADC National Contact Point.",
+      "requirements": [
+        "Citizen of an eligible SADC Member State — Namibians eligible (submit via SADC National Contact Point)",
+        "Master’s degree in Economics, Development Studies, International Relations, or Public Policy",
+        "10+ years development policy research & advisory experience (4+ years line management)"
+      ],
+      "benefits": [
+        "SADC Grade 4 international diplomatic remuneration package",
+        "Relocation, housing, medical & education allowances in Gaborone"
+      ],
+      "eligibilityScope": "SADC & International (Namibians Eligible)",
+      "eligibilityNote": "SADC Member State Citizens Only — Namibians Eligible",
+      "isStudentHoliday": false,
+      "sourceName": "SADC Secretariat (sadc.int)",
+      "sourceUrl": "https://www.sadc.int/opportunities/employment",
+      "applicationDeadline": "2026-11-20",
+      "postedAt": "2026-11-05T08:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-sadc-gab-treasury-26",
+      "title": "Controller of Treasury and Budget (Grade 4)",
+      "company": "SADC Secretariat",
+      "country": "Botswana",
+      "city": "Gaborone",
+      "region": "South-East",
+      "lat": -24.6495,
+      "lng": 25.9135,
+      "sector": "Finance & Audit",
+      "employmentType": "Contract",
+      "salaryMin": 4800,
+      "salaryMax": 6100,
+      "currency": "USD",
+      "salaryPeriod": "month",
+      "description": "Official SADC Secretariat Grade 4 fixed-term post in Gaborone (closing 20 November 2026 at 12:00). Oversee regional treasury operations, member-state budget disbursements, and donor financial governance. Apply through Namibia’s SADC National Contact Point.",
+      "requirements": [
+        "Citizen of an eligible SADC Member State including Namibia",
+        "Master’s degree in Finance + ACCA, CIMA, ICAEW, or CA qualification",
+        "10+ years treasury & budget leadership (4+ years line management)"
+      ],
+      "benefits": [
+        "SADC Grade 4 USD-denominated contract & relocation package",
+        "Home-leave travel & medical cover"
+      ],
+      "eligibilityScope": "SADC & International (Namibians Eligible)",
+      "eligibilityNote": "SADC Member State Citizens Only — Namibians Eligible",
+      "isStudentHoliday": false,
+      "sourceName": "SADC Secretariat (sadc.int)",
+      "sourceUrl": "https://www.sadc.int/opportunities/employment",
+      "applicationDeadline": "2026-11-20",
+      "postedAt": "2026-11-05T08:15:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-sadc-gab-accounting-27",
+      "title": "Controller of Accounting Services (Grade 4)",
+      "company": "SADC Secretariat",
+      "country": "Botswana",
+      "city": "Gaborone",
+      "region": "South-East",
+      "lat": -24.6512,
+      "lng": 25.9102,
+      "sector": "Finance & Audit",
+      "employmentType": "Contract",
+      "salaryMin": 4800,
+      "salaryMax": 6100,
+      "currency": "USD",
+      "salaryPeriod": "month",
+      "description": "Official SADC Secretariat 4-year renewable appointment in Gaborone (closing 20 November 2026 at 12:00). Direct statutory IPSAS financial reporting, audit readiness, and accounting controls across SADC directorates.",
+      "requirements": [
+        "Citizen of a SADC Member State — Namibians fully eligible",
+        "Professional accountancy qualification (CA/ACCA/CIMA) + Master’s degree",
+        "10+ years financial accounting & multilateral audit leadership"
+      ],
+      "benefits": [
+        "International Grade 4 SADC diplomatic contract & allowances"
+      ],
+      "eligibilityScope": "SADC & International (Namibians Eligible)",
+      "eligibilityNote": "SADC Member State Citizens Only — Namibians Eligible",
+      "isStudentHoliday": false,
+      "sourceName": "SADC Secretariat (sadc.int)",
+      "sourceUrl": "https://www.sadc.int/opportunities/employment",
+      "applicationDeadline": "2026-11-20",
+      "postedAt": "2026-11-05T08:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-sadc-gab-legal-28",
+      "title": "Legal Counsel (Grade 6)",
+      "company": "SADC Secretariat",
+      "country": "Botswana",
+      "city": "Gaborone",
+      "region": "South-East",
+      "lat": -24.6564,
+      "lng": 25.9071,
+      "sector": "Finance & Audit",
+      "employmentType": "Contract",
+      "salaryMin": 3600,
+      "salaryMax": 4800,
+      "currency": "USD",
+      "salaryPeriod": "month",
+      "description": "Official SADC Secretariat regional call (closing 20 November 2026 at 12:00) for Legal Counsel (Grade 6) in Gaborone. Draft SADC protocols, regional treaties, and institutional legal opinions across Member States.",
+      "requirements": [
+        "Citizen of a SADC Member State — Namibian admitted legal practitioners eligible",
+        "LLB / Master of Laws (LLM) in International or Treaty Law",
+        "Apply through the Namibian SADC National Contact Point before deadline"
+      ],
+      "benefits": [
+        "SADC Grade 6 international contract & relocation benefits in Botswana"
+      ],
+      "eligibilityScope": "SADC & International (Namibians Eligible)",
+      "eligibilityNote": "SADC Member State Citizens Only — Namibians Eligible",
+      "isStudentHoliday": false,
+      "sourceName": "SADC Secretariat (sadc.int)",
+      "sourceUrl": "https://www.sadc.int/opportunities/employment",
+      "applicationDeadline": "2026-11-20",
+      "postedAt": "2026-11-05T08:45:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-sadcpf-whk-29",
+      "title": "SRHR & HIV Governance Project / Institutional Roles",
+      "company": "SADC Parliamentary Forum (SADC PF)",
+      "country": "Namibia",
+      "city": "Windhoek",
+      "region": "Khomas",
+      "lat": -22.5675,
+      "lng": 17.0785,
+      "sector": "Healthcare",
+      "employmentType": "Contract",
+      "salaryMin": 2800,
+      "salaryMax": 4200,
+      "currency": "USD",
+      "salaryPeriod": "month",
+      "description": "Headquartered in Windhoek, Namibia, the SADC Parliamentary Forum runs regional parliamentary governance, SRHR, and HIV & AIDS project vacancies and consultancies open to Namibian and SADC professionals.",
+      "requirements": [
+        "Citizen of a SADC Member State (Namibians eligible)",
+        "Degree in Public Health, Governance, Law, or Social Sciences",
+        "Monitor active Terms of Reference on sadcpf.org"
+      ],
+      "benefits": [
+        "Regional SADC intergovernmental duty station in Windhoek"
+      ],
+      "eligibilityScope": "SADC & International (Namibians Eligible)",
+      "eligibilityNote": "SADC Intergovernmental Organisation — Namibians Eligible",
+      "isStudentHoliday": false,
+      "sourceName": "SADC Parliamentary Forum",
+      "sourceUrl": "https://www.sadcpf.org/",
+      "applicationDeadline": "2026-12-18",
+      "postedAt": "2026-11-12T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "job-afdb-ypp-30",
+      "title": "Young Professionals Program & Regional Member Country Vacancies",
+      "company": "African Development Bank (AfDB)",
+      "country": "South Africa",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "lat": -26.0124,
+      "lng": 28.0195,
+      "sector": "Mining & Energy",
+      "employmentType": "Full-time",
+      "salaryMin": 4600,
+      "salaryMax": 6400,
+      "currency": "USD",
+      "salaryPeriod": "month",
+      "description": "African Development Bank official recruitment portal for Young Professionals and Regional Member Country specialists across Southern Africa (covering energy, infrastructure, water, and development finance). Open to nationals of AfDB Regional Member Countries including Namibia.",
+      "requirements": [
+        "Citizen of an AfDB Regional Member Country — Namibians fully eligible",
+        "Master’s degree in Finance, Economics, Engineering, or Climate/Development",
+        "Apply directly via official afdb.org recruitment portal"
+      ],
+      "benefits": [
+        "International DFI tax-exempt compensation & relocation package",
+        "Medical & pension benefits"
+      ],
+      "eligibilityScope": "SADC & International (Namibians Eligible)",
+      "eligibilityNote": "AfDB Regional Member Countries — Namibians Eligible",
+      "isStudentHoliday": false,
+      "sourceName": "AfDB & UNDP Southern Africa",
+      "sourceUrl": "https://www.afdb.org/",
+      "applicationDeadline": "2026-12-30",
+      "postedAt": "2026-11-14T10:30:00Z",
+      "verified": true
+    }
+  ],
+  "applications": [],
+  "cvs": []
+}
